@@ -37,7 +37,7 @@
 ## STEP 3
 - Create
     - `Bastion` (Ubuntu) EC2 Instance
-    - `Databse` (MySQL) Instance
+    - `Database` (MySQL) Instance
     - `Appserver` (Ubuntu) EC2 Instance
     - `Backend Load Balancer` (ALB) Resource
     - `Webserver` (Configure) (Amazon Linux 2) EC2 Instance
